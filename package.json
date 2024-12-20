@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "zimbra-zimlet-bigbluebutton",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "license": "BSD-3",
   "description": "BigBlueButton integration for Zimbra",
   "main": "build/index.js",
