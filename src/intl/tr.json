@@ -1,22 +1,22 @@
 {
 	"zimbra-zimlet-bigbluebutton": {
 		"title": "BigBlueButton",
-		"dialInText": "Toplantiya alternatif olarak telefon numarasi veya PIN ile katilabilirsiniz. Daha fazla bilgi icin: ",
-		"slogan": "Goruntulu Gorusme, Sohbet",
-		"joinHostMeeting": "Toplantiya Katil",
-		"addMeetingDetails": "Katilim baglantisini Ekle",
-		"default_passwords": "Moderator ve Katilimci parolalarini belirleyebilirsiniz. Degisiklikler yeni toplanti icin gecerlidir, onceden planlananlar degismez.",
-		"moderator_password": "Moderator Parolasi",
-		"attendee_password": "Katilimci Parolasi",
-		"password_required": "Lutfen Moderator ve Katilimci için parola belirleyin",
-		"Meeting_Message": "Toplantiya katilmak icin:<br/>[meetinglink]<br/><br/>Katilmak icin asagidaki parolayi kullaniniz:<br/>[passwordattendeePassword]<br/>",
-		"set_defaults": "Sonraki toplantilar icin varsayilan olarak belirleyin",
-		"preferences": "Secenekler",
-		"passwordRequired": "Lutfen Moderator ve Katilimci icin parola belirleyin",
-		"fail": "Toplanti olusturulamadi"
+		"dialInText": "Toplantıya alternatif olarak telefon numarası veya PIN ile katılabilirsiniz. Daha fazla bilgi için: ",
+		"slogan": "Görüntülü Görüşme, Sohbet",
+		"joinHostMeeting": "Toplantıya Katıl",
+		"addMeetingDetails": "Katılım bağlantısını Ekle",
+		"default_passwords": "Moderator ve Katılımcı parolalarını belirleyebilirsiniz. Değişiklikler yeni toplantı için geçerlidir, önceden planlananlar değişmez.",
+		"moderator_password": "Moderator Parolası",
+		"attendee_password": "Katılımcı Parolası",
+		"password_required": "Lütfen Moderator ve Katılımcı için parola belirleyin",
+		"Meeting_Message": "Toplantıya katılmak için:<br/>[meetinglink]<br/><br/>Katılmak için aşağıdaki parolayı kullanınız:<br/>[passwordattendeePassword]<br/>",
+		"set_defaults": "Sonraki toplantılar için varsayılan olarak belirleyin",
+		"preferences": "Seçenekler",
+		"passwordRequired": "Lütfen Moderator ve Katılımcı için parola belirleyin",
+		"fail": "Toplantı oluşturulamadı"
 	},
 	"zimlet": {
-		"description": "Zimbra icin BigBlueButton Entegrasyonu",
+		"description": "Zimbra için BigBlueButton Entegrasyonu",
 		"label": "BigBlueButton"
   }
 }
